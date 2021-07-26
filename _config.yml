@@ -104,9 +104,3 @@ theme: landscape
 deploy:
 
 ​	type: git
-
-​	repo: https://github.com/TamaGua/tamagua.github.io
-
-​	branch: master
-
-​	
